@@ -1,9 +1,9 @@
-package com.example.quizapp.service;
+package com.quiz.demo.service;
 
-import com.example.quizapp.model.Question;
-import com.example.quizapp.model.User;
-import com.example.quizapp.repository.QuestionRepository;
-import com.example.quizapp.repository.UserRepository;
+import com.quiz.demo.model.Question;
+import com.quiz.demo.model.User;
+import com.quiz.demo.repository.QuestionRepository;
+import com.quiz.demo.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
